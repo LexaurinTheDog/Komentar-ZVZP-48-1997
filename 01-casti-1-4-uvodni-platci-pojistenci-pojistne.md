@@ -390,47 +390,47 @@ Druhá věta § 6 obsahuje **pravidlo o dosrážce po skončení pracovního vzt
 >
 > *(1) Stát je plátcem pojistného prostřednictvím státního rozpočtu za tyto pojištěnce:*
 >
-> *- a) nezaopatřené děti, s výjimkou osob uvedených v § 2 odst. 1 písm. b) bodě 9 nebo 11; nezaopatřenost dítěte se posuzuje podle zákona o státní sociální podpoře;*
+> *- a) nezaopatřené děti, s výjimkou osob uvedených v § 2 odst. 1 písm. b) bodě 9 nebo 11; nezaopatřenost dítěte se posuzuje podle zákona o státní sociální podpoře;7)*
 >
-> *- b) poživatele důchodů z důchodového pojištění [...];*
+> *- b) poživatele důchodů z důchodového pojištění, kterým byl přiznán důchod před 1. lednem 1993 podle předpisů České a Slovenské Federativní Republiky a po 31. prosinci 1992 podle předpisů České republiky. Za poživatele důchodu se pro účely tohoto zákona považuje osoba podle předchozí věty i v měsících, kdy jí podle předpisů o důchodovém pojištění výplata důchodu nenáleží;*
 >
-> *- c) příjemce rodičovského příspěvku;*
+> *- c) příjemce rodičovského příspěvku;7)*
 >
-> *- d) ženy na mateřské a osoby na rodičovské dovolené a osoby pobírající peněžitou pomoc v mateřství podle předpisů o nemocenském pojištění;*
+> *- d) ženy na mateřské a osoby na rodičovské dovolené a osoby pobírající peněžitou pomoc v mateřství podle předpisů o nemocenském pojištění8);*
 >
-> *- e) uchazeče o zaměstnání včetně uchazečů o zaměstnání, kteří přijali krátkodobé zaměstnání;*
+> *- e) uchazeče o zaměstnání včetně uchazečů o zaměstnání, kteří přijali krátkodobé zaměstnání;9)*
 >
-> *- f) osoby pobírající dávku státní sociální pomoci [...];*
+> *- f) osoby pobírající dávku státní sociální pomoci, jejíž součástí je složka na živobytí, a členy jejich domácnosti podle zákona o dávce státní sociální pomoci,*
 >
-> *- g) osoby závislé na péči jiné osoby ve stupni II, III nebo IV, a osoby pečující o tyto osoby, a osoby pečující o osoby mladší 10 let ve stupni I;*
+> *- g) osoby, které jsou závislé na péči jiné osoby ve stupni II (středně těžká závislost) nebo stupni III (těžká závislost) anebo stupni IV (úplná závislost)11), a osoby pečující o tyto osoby, a osoby pečující o osoby mladší 10 let, které jsou závislé na péči jiné osoby ve stupni I (lehká závislost),*
 >
 > *- h) osoby ve výkonu zabezpečovací detence nebo vazby, osoby ve výkonu trestu odnětí svobody nebo osoby ve výkonu ústavního ochranného léčení;*
 >
-> *- i) osoby uvedené v § 5 písm. c), které jsou příjemci dávek nemocenského pojištění;*
+> *- i) osoby uvedené v § 5 písm. c), které jsou příjemci dávek nemocenského pojištění;14)*
 >
-> *- j) osoby, které dosáhly věku potřebného pro nárok na starobní důchod, avšak nesplňují další podmínky [...], a osoby invalidní ve třetím stupni;*
+> *- j) osoby, které dosáhly věku potřebného pro nárok na starobní důchod, avšak nesplňují další podmínky pro přiznání starobního důchodu a nejsou zaměstnanci nebo osobami samostatně výdělečně činnými podle § 5 a nepožívají žádný důchod z ciziny, nebo tento důchod nepřesahuje měsíčně částku ve výši minimální mzdy15), a osoby, které jsou invalidní ve třetím stupni,*
 >
-> *- k) osoby osobně a řádně pečující alespoň o jedno dítě do 7 let věku [...];*
+> *- k) osoby osobně a řádně pečující alespoň o jedno dítě do 7 let věku, nejde-li o osoby uvedené v písmenu c) nebo d) nebo není-li dítě umístěno v zařízení s týdenním nebo celoročním pobytem; za takové osoby se považuje vždy pouze jedna osoba, a to buď otec nebo matka dítěte, nebo osoba, která převzala dítě do trvalé péče nahrazující péči rodičů16), a to ode dne, který osoba uvedla v oznámení, ne však dříve než dnem následujícím po dni, kdy toto oznámení bylo doručeno příslušné zdravotní pojišťovně; v případě dodatečného určení příslušnosti k českým právním předpisům podle koordinačních nařízení se pojištěnec stává osobou osobně a řádně pečující alespoň o jedno dítě do 7 let věku ode dne, který uvedl v oznámení; pojištěnec je osobou osobně a řádně pečující alespoň o jedno dítě do 7 let věku nejméně do konce kalendářního měsíce, v němž bylo oznámení doručeno příslušné zdravotní pojišťovně,*
 >
-> *- l) osoby ve výkonu ochranné výchovy;*
+> *- l) osoby ve výkonu ochranné výchovy,*
 >
-> *- m) osoby vykonávající dlouhodobou dobrovolnickou službu [...];*
+> *- m) osoby vykonávající dlouhodobou dobrovolnickou službu na základě smlouvy s vysílající organizací, které byla udělena akreditace Ministerstvem vnitra, v rozsahu překračujícím v průměru alespoň 20 hodin v kalendářním týdnu, pokud není dobrovolník plátcem pojistného podle § 5 nebo za něj není plátcem pojistného stát podle předchozích písmen a) až l),*
 >
-> *- n) manžele/partnery státních zaměstnanců vyslaných do zahraničí;*
+> *- n) manžele, partnery nebo registrované partnery státních zaměstnanců podle zákona o státní službě nebo jiných zaměstnanců v organizačních složkách státu, pokud je následují do místa jejich vyslání k výkonu práce v zahraničí nebo k výkonu služby v zahraničí se souhlasem této organizační složky státu, a nemají příjem ze závislé činnosti nebo nejsou osobami samostatně výdělečně činnými podle § 5 nebo nejsou osobami vykonávajícími obdobné činnosti podle práva cizího státu, do kterého byli jejich manželé, partneři nebo registrovaní partneři vysláni k výkonu práce v zahraničí nebo k výkonu služby v zahraničí,*
 >
-> *- o) osoby uvedené v § 2 odst. 1 písm. b) bodech 3 až 5 a 10 [azylanté, doplňková ochrana, dočasná ochrana, narozené v ČR zástupcům s trvalým pobytem];*
+> *- o) osoby uvedené v § 2 odst. 1 písm. b) bodech 3 až 5 a 10, pokud nejsou zaměstnanci nebo osobami samostatně výdělečně činnými podle § 5,*
 >
-> *- p) žadatele o udělení mezinárodní ochrany a děti narozené v ČR, cizince s potvrzením o strpění pobytu;*
+> *- p) žadatele o udělení mezinárodní ochrany a jeho dítě narozené na území České republiky, cizince, jemuž bylo vydáno potvrzení o strpění pobytu na území České republiky, a jeho dítě narozené na území České republiky16b), pokud nejsou zaměstnanci nebo osobami samostatně výdělečně činnými podle § 5,*
 >
-> *- q) příjemce starobní penze na určenou dobu, doživotní penze nebo penze na přesně stanovenou dobu podle zákona o doplňkovém penzijním spoření [...];*
+> *- q) příjemci starobní penze na určenou dobu, doživotní penze nebo penze na přesně stanovenou dobu s přesně stanovenou výší důchodu podle zákona upravujícího doplňkové penzijní spoření do dosažení věku potřebného pro vznik nároku na starobní důchod podle § 32 zákona o důchodovém pojištění, pokud jsou splněny podmínky stanovené v § 22 odst. 4 nebo § 23 odst. 6 zákona č. 427/2011 Sb., o doplňkovém penzijním spoření; při stanovení tohoto věku u žen se postupuje stejně jako u mužů stejného data narození,*
 >
-> *- r) osoby starší 26 let studující prvně v doktorském studijním programu v prezenční formě [...];*
+> *- r) osoby starší 26 let studující prvně v doktorském studijním programu uskutečňovaném vysokou školou v České republice ve standardní době v prezenční formě studia, pokud nejsou zaměstnanci nebo osobami samostatně výdělečně činnými podle § 5; za dobu uvedeného studia se pro účely tohoto písmena považuje také kalendářní měsíc, v němž osoba ukončila uvedené studium,*
 >
-> *- s) osoby poskytující dítěti nezprostředkovanou pěstounskou péči, kterým je vyplácen příspěvek při pěstounské péči [...];*
+> *- s) osoby poskytující dítěti nezprostředkovanou pěstounskou péči, kterým je vyplácen příspěvek při pěstounské péči podle zákona o sociálně-právní ochraně dětí70), pokud tyto osoby měly ke dni 31. prosince 2021 nárok na odměnu pěstouna podle zákona o sociálně-právní ochraně dětí,*
 >
-> *- t) osoby pečující o nezletilé nezaopatřené dítě poskytující nezprostředkovanou pěstounskou péči [...];*
+> *- t) osoby pečující o nezletilé nezaopatřené dítě poskytující nezprostředkovanou pěstounskou péči a osoby mající dítě ve svěřenectví podle § 953 občanského zákoníku, pokud toto dítě má nárok na příspěvek na úhradu potřeb dítěte podle zákona o sociálně-právní ochraně dětí71), a to nejdéle po dobu 2 let od prvního dne kalendářního měsíce, za který příspěvek na úhradu potřeb dítěte poprvé náleží; podmínka nároku na příspěvek na úhradu potřeb dítěte se považuje za splněnou po dobu, po kterou tento příspěvek nenáleží z důvodu souběhu s důchodem nebo výživným stanoveným soudem,*
 >
-> *- u) manžele/partnery prezidenta republiky.*
+> *- u) manželku (manžela), partnera (partnerku) nebo registrovaného partnera (registrovanou partnerku) podle jiného zákona prezidenta republiky (prezidentky republiky).*
 >
 > *(2) Jsou-li osoby uvedené v odstavci 1 písm. a) až e), g), h), j), pokud jde o osoby, které jsou invalidní ve třetím stupni, k), q), s), t) a u) zaměstnanci nebo osobami samostatně výdělečně činnými, je plátcem pojistného stát i tyto osoby.*
 
@@ -507,9 +507,7 @@ Mechanismus a parametry platby upravuje § 8 odst. 7–8 ZVZP (vznik a zánik pl
 
 > **§ 8**
 >
-> *Povinnost platit pojistné*
->
-> *(1) Pojistné se platí zdravotní pojišťovně, u které je pojištěnec pojištěn, (dále jen „příslušná zdravotní pojišťovna") s výjimkou záloh na pojistné osoby samostatně výdělečně činné, která je poplatníkem v paušálním režimu, a pojistného osoby samostatně výdělečné činné, jejíž daň z příjmů je rovna paušální dani, jejichž placení upravuje zákon upravující daně z příjmů. Povinnost platit pojistné vzniká pojištěnci dnem:*
+> *(1) Pojistné se platí zdravotní pojišťovně, u které je pojištěnec pojištěn, (dále jen „příslušná zdravotní pojišťovna“) s výjimkou záloh na pojistné osoby samostatně výdělečně činné, která je poplatníkem v paušálním režimu, a pojistného osoby samostatně výdělečné činné, jejíž daň z příjmů je rovna paušální dani, jejichž placení upravuje zákon upravující daně z příjmů. Povinnost platit pojistné vzniká pojištěnci dnem:*
 >
 > *- a) nástupu zaměstnance do zaměstnání (§ 2 odst. 3);*
 >
@@ -523,23 +521,57 @@ Mechanismus a parametry platby upravuje § 8 odst. 7–8 ZVZP (vznik a zánik pl
 >
 > *- f) návratu do České republiky po nepřetržitém pobytu v cizině, který započal již před 1. lednem 1993, pokud den návratu připadne na období po 30. dubnu 1995; uvedené skutečnosti je pojištěnec povinen příslušné zdravotní pojišťovně doložit;*
 >
-> *- g) návratu do České republiky po nepřetržitém pobytu v cizině, který započal mezi 1. lednem 1993 a 1. červencem 1993, pokud den návratu připadne na období po 30. dubnu 1995, jestliže pojištěnec [byl v cizině zdravotně pojištěn, nečerpal v ČR hrazené služby a požádal o postup podle odst. 4].*
+> *- g) návratu do České republiky po nepřetržitém pobytu v cizině, který započal mezi 1. lednem 1993 a 1. červencem 1993, pokud den návratu připadne na období po 30. dubnu 1995, jestliže pojištěnec*
+>
+> *- 1. byl v cizině zdravotně pojištěn,*
+>
+> *- 2. v uvedeném období mu nebyly poskytnuty hrazené služby,*
+>
+> *- 3. požádal zpětně příslušnou zdravotní pojišťovnu o postup podle odstavce 4.*
 >
 > *Tím není dotčena povinnost platit pojistné za dobu předcházející pobytu v cizině.*
 >
-> *(2) Povinnost zaměstnavatele platit část pojistného za své zaměstnance vzniká dnem nástupu zaměstnance do zaměstnání (§ 2 odst. 3) a zaniká dnem skončení zaměstnání, s výjimkami stanovenými v § 6. Za den nástupu zaměstnance do zaměstnání se považuje [14 dílčích pravidel podle typu právního vztahu — pracovní poměr, služební poměr, družstevní pracovní vztah, DPP a DPČ, soudci, zastupitelé, poslanci a senátoři, členové vlády a ústavní funkcionáři, jmenované funkce, dobrovolní pracovníci pečovatelské služby, pěstouni s odměnou pěstouna, odsouzení zařazení do práce, faktický pracovní poměr a další zaměstnanci].*
+> *(2) Povinnost zaměstnavatele platit část pojistného za své zaměstnance vzniká dnem nástupu zaměstnance do zaměstnání (§ 2 odst. 3) a zaniká dnem skončení zaměstnání, s výjimkami stanovenými v § 6. Za den nástupu zaměstnance do zaměstnání se považuje*
+>
+> *- a) u pracovního poměru včetně pracovního poměru sjednaného podle cizích právních předpisů den, ve kterém zaměstnanec nastoupil do práce, a za den ukončení zaměstnání se považuje den skončení pracovního poměru,*
+>
+> *- b) u služebního poměru den, ve kterém zaměstnanec nastoupil k výkonu služby, jde-li o státního zaměstnance den nástupu služby, a za den ukončení zaměstnání se považuje den skončení služebního poměru,*
+>
+> *- c) u členů družstva v družstvech, kde podmínkou členství je jejich pracovní vztah k družstvu, jestliže mimo pracovněprávní vztah vykonávají pro družstvo práci, za kterou jsou jím odměňováni, den započetí práce pro družstvo, a za den ukončení zaměstnání se považuje den skončení členství v družstvu,*
+>
+> *- d) u zaměstnanců činných na základě dohody o pracovní činnosti den, ve kterém poprvé po uzavření dohody o pracovní činnosti zaměstnanec začal vykonávat sjednanou práci, a za den ukončení zaměstnání se považuje den, jímž uplynula doba, na kterou byla tato dohoda sjednána, u zaměstnanců činných na základě dohody o provedení práce se postupuje obdobně,*
+>
+> *- e) u soudců den nástupu soudce do funkce, a za den ukončení zaměstnání se považuje den skončení výkonu funkce soudce,*
+>
+> *- f) u členů zastupitelstev územních samosprávných celků a zastupitelstev městských částí nebo městských obvodů územně členěných statutárních měst a hlavního města Prahy, kteří jsou pro výkon funkce dlouhodobě uvolněni nebo kteří před zvolením do funkce člena zastupitelstva nebyli v pracovním poměru, ale vykonávají funkci ve stejném rozsahu jako dlouhodobě uvolnění členové zastupitelstva den, od něhož členu náleží odměna za výkon funkce vyplácená členům zastupitelstev územních samosprávných celků a zastupitelstev městských částí nebo městských obvodů územně členěných statutárních měst a hlavního města Prahy, kteří jsou pro výkon funkce dlouhodobě uvolněni nebo kteří před zvolením do funkce člena zastupitelstva nebyli v pracovním poměru, ale vykonávají funkci ve stejném rozsahu jako dlouhodobě uvolnění členové zastupitelstva, a za den ukončení zaměstnání se považuje den, od něhož tato odměna nenáleží. Plní-li dosavadní starosta nebo primátor úkoly po uplynutí volebního období až do dne konání ustavujícího zasedání nově zvoleného zastupitelstva a je mu vyplácena odměna uvedená ve větě první, považuje se za zaměstnance ještě po dobu, po kterou mu náleží tato odměna; to platí obdobně pro hejtmana kraje a primátora hlavního města Prahy,*
+>
+> *- g) u poslanců Poslanecké sněmovny a senátorů Senátu Parlamentu České republiky a poslanců Evropského parlamentu zvolených na území České republiky den zvolení, a za den ukončení zaměstnání se považuje den uplynutí volebního období, popřípadě den zániku mandátu,*
+>
+> *- h) u členů vlády, prezidenta, viceprezidenta a členů Nejvyššího kontrolního úřadu, členů Rady pro rozhlasové a televizní vysílání, členů Rady Českého telekomunikačního úřadu, finančního arbitra, zástupce finančního arbitra a veřejného ochránce práv, ochránce práv dětí a jejich zástupce den nástupu do funkce, a za den ukončení zaměstnání se považuje den skončení výkonu funkce,*
+>
+> *- i) u fyzických osob, které nejsou uvedeny v písmenech e) až h), které byly jmenovány nebo zvoleny do funkce a jejich jmenováním nevznikl pracovní nebo služební poměr, den nástupu do funkce, a za den ukončení zaměstnání se považuje den skončení výkonu funkce,*
+>
+> *- j) u dobrovolných pracovníků pečovatelské služby den, ve kterém začal dobrovolný pracovník poskytovat pečovatelskou službu, a za den ukončení zaměstnání se považuje den, kdy přestal být dobrovolným pracovníkem pečovatelské služby,*
+>
+> *- k) u osoby pečující o dítě a osoby, která je vedena v evidenci osob, které mohou vykonávat pěstounskou péči na přechodnou dobu, je-li těmto osobám vyplácena odměna pěstouna podle zákona o sociálně-právní ochraně dětí16c), den, od něhož jim tato odměna náleží, a za den ukončení zaměstnání se považuje den, od něhož tato odměna nenáleží z jiných důvodů, než je dočasná pracovní neschopnost,*
+>
+> *- l) u odsouzených ve výkonu ochranného opatření zabezpečovací detence a trestu odnětí svobody zařazených do práce den zařazení do práce, a za den ukončení zaměstnání se považuje den odvolání z výkonu práce,*
+>
+> *- m) u osob činných v poměru, který má obsah pracovního poměru, avšak pracovní poměr nevznikl, neboť nebyly splněny podmínky stanovené pracovněprávními předpisy pro jeho vznik, den započetí výkonu práce, a za den ukončení zaměstnání se považuje den ukončení výkonu práce,*
+>
+> *- n) u zaměstnanců neuvedených pod písmeny a) až m) den, kdy začal zaměstnanec vykonávat práci, na jejímž základě mu plynou příjmy ze závislé činnosti, a za den ukončení zaměstnání se považuje den ukončení výkonu práce.*
 >
 > *(3) Povinnost státu platit pojistné za pojištěnce vzniká dnem, kdy se stát podle § 7 stává plátcem pojistného. Tato povinnost zaniká dnem, ke kterému stát přestal být podle § 7 plátcem pojistného.*
 >
-> *(4) Pojištěnec není povinen platit pojistné po dobu, kdy je dlouhodobě v cizině, pokud je v cizině zdravotně pojištěn a učinil o této skutečnosti u příslušné zdravotní pojišťovny písemné prohlášení. [Pravidla o den od/do prohlášení, doložení zahraničního pojištění, doplatku pojistného a vyloučení penále — viz plné znění zákona.] Za dlouhodobý pobyt v cizině se považuje nepřetržitý pobyt delší šesti měsíců.*
+> *(4) Pojištěnec není povinen platit pojistné po dobu, kdy je dlouhodobě v cizině, pokud je v cizině zdravotně pojištěn a učinil o této skutečnosti u příslušné zdravotní pojišťovny písemné prohlášení. Povinnost platit pojistné však zaniká až dnem, který pojištěnec v prohlášení podle věty prvé uvedl, ne však dříve než dnem následujícím po dni, kdy toto prohlášení bylo doručeno příslušné zdravotní pojišťovně. Od stejného dne až do dne, kdy se pojištěnec u příslušné zdravotní pojišťovny opět přihlásil, nemá pojištěnec nárok na poskytování hrazených služeb. Současně s opětovným přihlášením u příslušné zdravotní pojišťovny je pojištěnec povinen této pojišťovně dodatečně předložit doklad o uzavřeném zdravotním pojištění v cizině a jeho délce. Pokud pojištěnec nepředloží příslušné zdravotní pojišťovně doklad o uzavřeném zdravotním pojištění v cizině a jeho délce, je povinen doplatit zpětně pojistné tak, jako by k odhlášení nedošlo; penále se v takovém případě nevymáhá. Jestliže pojištěnec předloží doklad o uzavřeném zdravotním pojištění v cizině, který nekryje celou dobu, kdy nebyl povinen platit pojistné v České republice podle věty první, je povinen doplatit zpětně pojistné za každý kalendářní měsíc, ve kterém zdravotní pojištění v cizině netrvalo po celý takový kalendářní měsíc; penále se v takovém případě nevymáhá. Další prohlášení podle věty první lze zdravotní pojišťovně podat nejdříve po uplynutí 2 celých kalendářních měsíců následujících po dni opětovného přihlášení. Za dlouhodobý pobyt v cizině se považuje nepřetržitý pobyt delší šesti měsíců.*
 >
 > *(5) Nezaplatí-li plátce pojistného pojistné ve stanovené výši a včas, je příslušná zdravotní pojišťovna povinna vymáhat na dlužníkovi jeho zaplacení včetně penále.*
 >
-> *(6) Penále se nevymáhá při dlouhodobém pobytu pojištěnce v cizině, před kterým neučinil písemné prohlášení podle odstavce 4, neplatil pojistné a po celou dobu pobytu v cizině nečerpal hrazené služby. [...]*
+> *(6) Penále se nevymáhá při dlouhodobém pobytu pojištěnce v cizině, před kterým neučinil písemné prohlášení podle odstavce 4, neplatil pojistné a po celou dobu pobytu v cizině nečerpal hrazené služby. V takovém případě je pojištěnec povinen předložit doklad o uzavřeném zdravotním pojištění v cizině a jeho délce, které kryje celou dobu dlouhodobého pobytu v cizině. Doba dlouhodobého pobytu v cizině se v takovém případě začíná počítat ode dne uvedeného jako počátek pojištění v dokladu o uzavření zdravotního pojištění v cizině.*
 >
-> *(7) Povinnost zákonného zástupce, opatrovníka nebo poručníka platit pojistné za osobu uvedenou v § 2 odst. 1 písm. b) bodě 9 vzniká narozením této osoby a zaniká koncem kalendářního měsíce, v němž tato osoba dovršila 60 dnů věku nebo, pokud byla za tuto osobu podána žádost o povolení k dlouhodobému pobytu, zaniká koncem kalendářního měsíce, v němž bylo toto řízení pravomocně skončeno.*
+> *(7) Povinnost zákonného zástupce, opatrovníka nebo poručníka platit pojistné za osobu uvedenou v § 2 odst. 1 písm. b) bodě 9 vzniká narozením této osoby a zaniká koncem kalendářního měsíce, v němž tato osoba dovršila 60 dnů věku nebo, pokud byla za tuto osobu podána žádost o povolení k dlouhodobému pobytu na území České republiky, zaniká koncem kalendářního měsíce, v němž bylo toto řízení pravomocně skončeno.*
 >
-> *(8) Povinnost zákonného zástupce, opatrovníka nebo poručníka platit pojistné za osobu uvedenou v § 2 odst. 1 písm. b) bodě 11 vzniká dnem udělení povolení k dlouhodobému pobytu na území České republiky a zaniká koncem kalendářního měsíce, v němž skončila platnost povolení k dlouhodobému pobytu nebo v němž tato osoba dosáhla zletilosti, nastala-li tato skutečnost dříve.*
+> *(8) Povinnost zákonného zástupce, opatrovníka nebo poručníka platit pojistné za osobu uvedenou v § 2 odst. 1 písm. b) bodě 11 vzniká dnem udělení povolení k dlouhodobému pobytu na území České republiky a zaniká koncem kalendářního měsíce, v němž skončila platnost povolení k dlouhodobému pobytu na území České republiky nebo v němž tato osoba dosáhla zletilosti, nastala-li tato skutečnost dříve.*
 
 **Výklad:**
 
@@ -717,8 +749,6 @@ Tyto pokuty jsou ukládány pojišťovnou ve správním řízení dle správníh
 
 > **§ 10**
 >
-> *Oznamovací povinnost plátců pojistného*
->
 > *(1) Zaměstnavatel je povinen nejpozději do osmi dnů od vzniku skutečnosti, která se oznamuje, provést u příslušné zdravotní pojišťovny oznámení o:*
 >
 > *- a) nástupu zaměstnance do zaměstnání (§ 2 odst. 3) a jeho ukončení, nejedná-li se o zaměstnance činného pouze na základě dohody o provedení práce nebo o zaměstnance činného pouze na základě dohody o pracovní činnosti, u nichž se oznámení o nástupu do zaměstnání nebo jeho ukončení provádí do dvacátého dne kalendářního měsíce následujícího po měsíci, v němž se stali nebo přestali být plátci pojistného podle § 5 písm. a) bodu 3 nebo 6; jde-li o pojištěnce podle § 2 odst. 1 písm. b), oznamuje též tuto skutečnost,*
@@ -731,15 +761,15 @@ Tyto pokuty jsou ukládány pojišťovnou ve správním řízení dle správníh
 >
 > *(2) Zaměstnanec je povinen oznámit příslušné zdravotní pojišťovně skutečnosti podle předchozího odstavce neprodleně, zjistí-li, že jeho zaměstnavatel tuto povinnost nesplnil, nebo pokud údaje uvedené v odstavci 1 písm. b) svému zaměstnavateli nesdělil.*
 >
-> *(3) Pojištěnec, který se stal nebo přestal být osobou samostatně výdělečně činnou, je povinen oznámit příslušné zdravotní pojišťovně tuto skutečnost nejpozději do osmi dnů ode dne, kdy se stal nebo přestal být osobou samostatně výdělečně činnou. Pojištěnec, podnikající na základě živnostenského oprávnění, splní tuto povinnost i tehdy, učiní-li oznámení příslušnému živnostenskému úřadu. [...]*
+> *(3) Pojištěnec, který se stal nebo přestal být osobou samostatně výdělečně činnou, je povinen oznámit příslušné zdravotní pojišťovně tuto skutečnost nejpozději do osmi dnů ode dne, kdy se stal nebo přestal být osobou samostatně výdělečně činnou. Pojištěnec, podnikající na základě živnostenského oprávnění, splní tuto povinnost i tehdy, učiní-li oznámení příslušnému živnostenskému úřadu17b). Pojištěnec splní povinnost podle věty první i tehdy, učiní-li toto oznámení společně s podáním oznámení o vstupu do paušálního režimu nebo s podáním oznámení o ukončení paušálního režimu prostřednictvím orgánu Finanční správy České republiky správci registru všech pojištěnců veřejného zdravotního pojištění; povinnost je splněna dnem učinění oznámení orgánu Finanční správy České republiky.*
 >
 > *(4) Pojištěnec je povinen do osmi dnů ode dne, kdy se stal pojištěncem podle § 5 písm. c), oznámit tuto skutečnost příslušné zdravotní pojišťovně.*
 >
 > *(5) Pojištěnec je povinen oznámit a doložit příslušné zdravotní pojišťovně nejpozději do 8 dnů ode dne, kdy nastaly, skutečnosti rozhodné pro vznik nebo zánik povinnosti státu platit za něj pojistné podle § 7 odst. 1 písm. i), j), k), m), n), r), s) a t). Za osoby, které nejsou plně svéprávné, plní tuto povinnost jejich zákonný zástupce, opatrovník nebo poručník.*
 >
-> *(6) Narození pojištěnce je jeho zákonný zástupce, opatrovník nebo poručník povinen oznámit do osmi dnů ode dne narození zdravotní pojišťovně, u které je pojištěna matka dítěte v den jeho narození; [...]*
+> *(6) Narození pojištěnce je jeho zákonný zástupce, opatrovník nebo poručník povinen oznámit do osmi dnů ode dne narození zdravotní pojišťovně, u které je pojištěna matka dítěte v den jeho narození; není-li matka dítěte zdravotně pojištěna podle tohoto zákona, oznámí zákonný zástupce, opatrovník nebo poručník dítěte jeho narození zdravotní pojišťovně, u které je pojištěn otec dítěte v den jeho narození.*
 >
-> *(8) Narození pojištěnce uvedeného v § 2 odst. 1 písm. b) bodu 9 nebo 10 [...] Nejsou-li rodiče zdravotně pojištěni podle tohoto zákona, oznámí zákonný zástupce, opatrovník nebo poručník dítěte jeho narození Všeobecné zdravotní pojišťovně České republiky.*
+> *(8) Narození pojištěnce uvedeného v § 2 odst. 1 písm. b) bodu 9 nebo 10 je jeho zákonný zástupce, opatrovník nebo poručník povinen oznámit do 8 dnů ode dne narození zdravotní pojišťovně, u které je pojištěna matka dítěte v den jeho narození; není-li matka dítěte zdravotně pojištěna podle tohoto zákona, oznámí zákonný zástupce, opatrovník nebo poručník dítěte jeho narození zdravotní pojišťovně, u které je pojištěn otec dítěte v den jeho narození. Nejsou-li rodiče zdravotně pojištěni podle tohoto zákona, oznámí zákonný zástupce, opatrovník nebo poručník dítěte jeho narození Všeobecné zdravotní pojišťovně České republiky.*
 >
 > *(9) Vydání povolení k dlouhodobému pobytu pojištěnci uvedenému v § 2 odst. 1 písm. b) bodě 11 je jeho zákonný zástupce, opatrovník nebo poručník povinen oznámit příslušné zdravotní pojišťovně do 8 dnů ode dne doručení tohoto povolení.*
 
@@ -877,15 +907,15 @@ Odst. 2 ukládá pojišťovně povinnost **zveřejnit formát a strukturu podán
 >
 > *- a) na výběr zdravotní pojišťovny, nestanoví-li tento zákon jinak,*
 >
-> *- b) na výběr poskytovatele zdravotních služeb (dále jen „poskytovatel"), který je ve smluvním vztahu k příslušné zdravotní pojišťovně, a na výběr zdravotnického zařízení tohoto poskytovatele; v případě registrujícího poskytovatele může toto právo uplatnit jednou za 3 měsíce,*
+> *- b) na výběr poskytovatele zdravotních služeb (dále jen „poskytovatel“), který je ve smluvním vztahu k příslušné zdravotní pojišťovně, a na výběr zdravotnického zařízení tohoto poskytovatele; v případě registrujícího poskytovatele může toto právo uplatnit jednou za 3 měsíce,*
 >
 > *- c) na časovou a místní dostupnost hrazených služeb poskytovaných smluvními poskytovateli příslušné zdravotní pojišťovny,*
 >
 > *- d) na poskytnutí hrazených služeb v rozsahu a za podmínek stanovených tímto zákonem a zákonem o kategorizaci zdravotnických prostředků, přičemž poskytovatel nesmí za tyto hrazené služby přijmout od pojištěnce žádnou úhradu,*
 >
-> *- e) na výdej předepsaných zdravotnických prostředků, léčivých přípravků a potravin pro zvláštní lékařské účely [...] i v případech, kdy poskytovatel lékárenské péče nemá se zdravotní pojišťovnou pojištěnce dosud uzavřenou smlouvu,*
+> *- e) na výdej předepsaných zdravotnických prostředků, léčivých přípravků a potravin pro zvláštní lékařské účely, jde-li o zdravotnické prostředky, léčivé přípravky a potraviny pro zvláštní lékařské účely plně nebo částečně hrazené ze zdravotního pojištění v rozsahu a za podmínek stanovených tímto zákonem a zákonem o kategorizaci zdravotnických prostředků; to platí i v případech, kdy poskytovatel lékárenské péče nemá se zdravotní pojišťovnou pojištěnce dosud uzavřenou smlouvu,*
 >
-> *- f) na poskytnutí zdravotní péče hrazené v rozsahu a za podmínek stanovených tímto zákonem související s onemocněními s velmi nízkým výskytem v populaci (dále jen „vzácná onemocnění"), včetně léčivých přípravků pro vzácná onemocnění,*
+> *- f) na poskytnutí zdravotní péče hrazené v rozsahu a za podmínek stanovených tímto zákonem související s onemocněními s velmi nízkým výskytem v populaci ve smyslu přímo použitelného právního předpisu Evropské unie19a) (dále jen „vzácná onemocnění“), včetně léčivých přípravků pro vzácná onemocnění, hrazených podle tohoto zákona,*
 >
 > *- g) na poskytnutí informací od zdravotní pojišťovny o jemu poskytnutých hrazených službách,*
 >
@@ -893,19 +923,19 @@ Odst. 2 ukládá pojišťovně povinnost **zveřejnit formát a strukturu podán
 >
 > *- i) na vystavení dokladu o zaplacení regulačního poplatku podle § 16a,*
 >
-> *- j) na vystavení dokladu o zaplacení doplatku za vydání částečně hrazeného léčivého přípravku nebo částečně hrazené potraviny pro zvláštní lékařské účely [...],*
+> *- j) na vystavení dokladu o zaplacení doplatku za vydání částečně hrazeného léčivého přípravku nebo částečně hrazené potraviny pro zvláštní lékařské účely poskytovatelem lékárenské péče, za poskytnutí částečně hrazeného zvlášť účtovaného léčivého přípravku poskytnutého poskytovatelem zdravotních služeb nebo za vydání částečně hrazeného zdravotnického prostředku osobou oprávněnou vydávat zdravotnické prostředky podle zákona o zdravotnických prostředcích,*
 >
 > *- k) na uhrazení částky přesahující limit pro doplatky za předepsané částečně hrazené léčivé přípravky nebo potraviny pro zvláštní lékařské účely podle § 16b zdravotní pojišťovnou ve lhůtě podle § 16b odst. 2,*
 >
 > *- l) na náhradu nákladů, které vynaložil na neodkladnou zdravotní péči čerpanou v cizině, a to pouze do výše stanovené pro úhradu takové péče, pokud by byla poskytnuta na území České republiky,*
 >
-> *- m) na náhradu nákladů, které vynaložil na zdravotní služby čerpané v jiném členském státě Evropské unie, pokud jde o zdravotní služby, které by byly při poskytnutí na území České republiky hrazeny ze zdravotního pojištění (dále jen „hrazené přeshraniční služby"), [...]*
+> *- m) na náhradu nákladů, které vynaložil na zdravotní služby čerpané v jiném členském státě Evropské unie, pokud jde o zdravotní služby, které by byly při poskytnutí na území České republiky hrazeny ze zdravotního pojištění (dále jen „hrazené přeshraniční služby“), a to pouze do výše stanovené pro úhradu takových služeb, pokud by byly poskytnuty na území České republiky, nestanoví-li tento zákon jinak,*
 >
 > *- n) na informace týkající se možností čerpat zdravotní služby v jiných členských státech Evropské unie.*
 >
 > *(2) Má-li pojištěnec za to, že mu nejsou poskytovány hrazené služby v souladu s tímto zákonem, může podat stížnost podle zákona o zdravotních službách.*
 >
-> *(3) U osob, kterým jsou poskytovány služby v oblasti zaměstnanosti a dále u osob, u nichž má být provedeno vyšetření lékařem ke zjištění, zda je lze umístit do policejní cely nebo je nutno je z ní propustit, a osob ve výkonu zabezpečovací detence nebo vazby nebo výkonu trestu odnětí svobody je výběr poskytovatele, zdravotnického zařízení a zdravotnické dopravní služby omezen podle zvláštních předpisů.*
+> *(3) U osob, kterým jsou poskytovány služby v oblasti zaměstnanosti22c) a dále u osob, u nichž má být provedeno vyšetření lékařem ke zjištění, zda je lze umístit do policejní cely nebo je nutno je z ní propustit, a osob ve výkonu zabezpečovací detence nebo vazby nebo výkonu trestu odnětí svobody je výběr poskytovatele, zdravotnického zařízení a zdravotnické dopravní služby omezen podle zvláštních předpisů.*
 
 **Výklad:**
 
@@ -964,7 +994,7 @@ Pojištěnec, který má pocit, že mu nejsou poskytovány hrazené služby v so
 
 > **§ 11a**
 >
-> *(1) Zdravotní pojišťovnu lze změnit jednou za 12 měsíců, a to vždy jen k 1. dni kalendářního pololetí. Přihlášku opatřenou podpisem je pojištěnec, jeho zákonný zástupce, opatrovník nebo poručník povinen podat vybrané zdravotní pojišťovně v průběhu kalendářního pololetí bezprostředně předcházejícího tomu, ve kterém má ke změně zdravotní pojišťovny dojít, nejpozději 3 měsíce před požadovaným dnem změny. [...] Přihlášku ke změně zdravotní pojišťovny lze podat pouze jednu v kalendářním roce; k případným dalším přihláškám se již nepřihlíží, a to ani tehdy, jsou-li podány ve stanovené lhůtě.*
+> *(1) Zdravotní pojišťovnu lze změnit jednou za 12 měsíců, a to vždy jen k 1. dni kalendářního pololetí. Přihlášku opatřenou podpisem je pojištěnec, jeho zákonný zástupce, opatrovník nebo poručník povinen podat vybrané zdravotní pojišťovně v průběhu kalendářního pololetí bezprostředně předcházejícího tomu, ve kterém má ke změně zdravotní pojišťovny dojít, nejpozději 3 měsíce před požadovaným dnem změny. Připadne-li poslední den této lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty pracovní den nejblíže následující. Přihlášku ke změně zdravotní pojišťovny lze podat pouze jednu v kalendářním roce; k případným dalším přihláškám se již nepřihlíží, a to ani tehdy, jsou-li podány ve stanovené lhůtě.*
 >
 > *(2) Pojištěnec je oprávněn změnit zdravotní pojišťovnu i ve lhůtě kratší, než je uvedena v odstavci 1, pokud*
 >
@@ -980,7 +1010,7 @@ Pojištěnec, který má pocit, že mu nejsou poskytovány hrazené služby v so
 >
 > *(3) Změnu zdravotní pojišťovny provádí za osoby, které nejsou plně svéprávné, jejich zákonný zástupce, opatrovník nebo poručník.*
 >
-> *(4) Při narození dítěte se právo na výběr zdravotní pojišťovny nepoužije. Dnem narození se dítě stává pojištěncem zdravotní pojišťovny, u které je pojištěna matka dítěte v den jeho narození. [...]*
+> *(4) Při narození dítěte se právo na výběr zdravotní pojišťovny nepoužije. Dnem narození se dítě stává pojištěncem zdravotní pojišťovny, u které je pojištěna matka dítěte v den jeho narození. Není-li matka narozeného dítěte zdravotně pojištěna podle tohoto zákona, stává se dnem narození dítě pojištěncem zdravotní pojišťovny, u které je zdravotně pojištěn otec dítěte v den jeho narození.*
 >
 > *(5) Změnu zdravotní pojišťovny dítěte může jeho zákonný zástupce, opatrovník nebo poručník provést až po přidělení rodného čísla dítěti, a to ke dni stanovenému v odstavci 1 nebo 2.*
 
@@ -1028,15 +1058,15 @@ Změnu provádí **zákonný zástupce, opatrovník nebo poručník**. Důležit
 
 > **§ 11b**
 >
-> *(1) Vojáci v činné službě, s výjimkou vojáků v záloze povolaných k vojenskému cvičení nebo službě v operačním nasazení, a žáci vojenských škol, kteří se připravují na službu vojáka z povolání a nejsou vojáky v činné službě, jsou pojištěni u určené zdravotní pojišťovny, kterou se rozumí Vojenská zdravotní pojišťovna. [...]*
+> *(1) Vojáci v činné službě, s výjimkou vojáků v záloze povolaných k vojenskému cvičení nebo službě v operačním nasazení, a žáci vojenských škol, kteří se připravují na službu vojáka z povolání a nejsou vojáky v činné službě, jsou pojištěni u určené zdravotní pojišťovny, kterou se rozumí Vojenská zdravotní pojišťovna. V případě sloučení určené zdravotní pojišťovny s jinou zdravotní pojišťovnou se určenou zdravotní pojišťovnou rozumí zdravotní pojišťovna, u které jsou pojištěni pojištěnci podle věty první.*
 >
-> *(2) Za vojáky v činné službě [...], za vojáky v záloze zařazené v aktivní záloze [...], a za žáky vojenských škol [...], kteří se připravují na službu vojáka z povolání a nejsou vojáky v činné službě, uhradí Ministerstvo obrany prostřednictvím určené zdravotní pojišťovny*
+> *(2) Za vojáky v činné službě22a), s výjimkou vojáků v záloze povolaných k vojenskému cvičení nebo službě v operačním nasazení, za vojáky v záloze zařazené v aktivní záloze, včetně výkonu vojenské činné služby, kteří jsou pojištěni u určené zdravotní pojišťovny, a za žáky vojenských škol22b), kteří se připravují na službu vojáka z povolání a nejsou vojáky v činné službě, uhradí Ministerstvo obrany prostřednictvím určené zdravotní pojišťovny*
 >
 > *- a) rozdíl mezi výší úhrady hrazených služeb poskytnutých poskytovatelem stanoveným jiným právním předpisem upravujícím služební poměr vojáků z povolání, které jsou částečně hrazeny z veřejného zdravotního pojištění podle tohoto zákona, a výší úhrady poskytnuté určenou zdravotní pojišťovnou; to neplatí pro úhradu stomatologických výrobků,*
 >
 > *- b) preventivní péči poskytnutou nad rámec hrazených služeb podle § 29 v rozsahu stanoveném vyhláškou Ministerstva obrany.*
 >
-> *(3) Za účelem úhrady zdravotních služeb poskytovaných pojištěncům podle odstavce 1 uzavře určená zdravotní pojišťovna smlouvu o poskytování a úhradě hrazených služeb s poskytovatelem zdravotních služeb, kterému oprávnění k poskytování zdravotních služeb udělilo Ministerstvo obrany, [...]. Smlouvu uzavře do 30 dnů ode dne doručení oznámení o udělení oprávnění k poskytování zdravotních služeb nebo doručení žádosti o uzavření smlouvy.*
+> *(3) Za účelem úhrady zdravotních služeb poskytovaných pojištěncům podle odstavce 1 uzavře určená zdravotní pojišťovna smlouvu o poskytování a úhradě hrazených služeb s poskytovatelem zdravotních služeb, kterému oprávnění k poskytování zdravotních služeb udělilo Ministerstvo obrany, a dále s poskytovatelem zdravotních služeb, který poskytuje zdravotní služby pojištěncům podle odstavce 1, pokud Ministerstvo obrany o uzavření smlouvy o poskytování a úhradě hrazených služeb určenou zdravotní pojišťovnu požádá. Smlouvu uzavře do 30 dnů ode dne doručení oznámení o udělení oprávnění k poskytování zdravotních služeb nebo doručení žádosti o uzavření smlouvy.*
 
 **Výklad:**
 
@@ -1099,9 +1129,9 @@ Odst. 3 ukládá VoZP **bezvýjimkovou smluvní povinnost** uzavřít smlouvu s 
 >
 > *- m) hradit poskytovateli regulační poplatky podle § 16a,*
 >
-> *- n) oznámit příslušné zdravotní pojišťovně, pokud jí dříve doložil podle § 16b odst. 1, že je poživatelem invalidního důchodu pro invaliditu třetího stupně, skutečnost, že přestal být jeho poživatelem, a to do 8 dnů ode dne nabytí právní moci příslušného rozhodnutí, [...]*
+> *- n) oznámit příslušné zdravotní pojišťovně, pokud jí dříve doložil podle § 16b odst. 1, že je poživatelem invalidního důchodu pro invaliditu třetího stupně, skutečnost, že přestal být jeho poživatelem, a to do 8 dnů ode dne nabytí právní moci příslušného rozhodnutí, a doložit tuto skutečnost kopií příslušného rozhodnutí,*
 >
-> *- o) oznámit příslušné zdravotní pojišťovně, pokud jí dříve doložil podle § 16b odst. 1, že byl uznán invalidním ve druhém nebo třetím stupni, ale není poživatelem invalidního důchodu z jiných důvodů, změnu této skutečnosti, a to do 8 dnů ode dne, kdy se o této změně dozvěděl, [...]*
+> *- o) oznámit příslušné zdravotní pojišťovně, pokud jí dříve doložil podle § 16b odst. 1, že byl uznán invalidním ve druhém nebo třetím stupni, ale není poživatelem invalidního důchodu z jiných důvodů, změnu této skutečnosti, a to do 8 dnů ode dne, kdy se o této změně dozvěděl, a doložit ji kopií příslušného posudku o posouzení zdravotního stavu.*
 
 **Výklad:**
 
