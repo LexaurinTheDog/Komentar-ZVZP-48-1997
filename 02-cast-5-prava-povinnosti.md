@@ -872,6 +872,17 @@ Při změně ZP v průběhu roku **vyplácí nadlimitní částku ta pojišťovn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 881/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACB2AFBFA6745FFCC1258B58004D1761?openDocument) — 12. 6. 2024, kat. A
+  > „Uzavření smlouvy mezi poskytovatelem zdravotních služeb a zdravotní pojišťovnou, příp. mezi poskytovatelem sociálních služeb a zdravotní pojišťovnou, o poskytování a úhradě hrazených služeb (§ 17 odst. 1 a § 17a zákona č. 48/1997 Sb., ve znění účinném do 4. 8. 2013) nevylučuje možnost protiústavního zásahu do práva poskytovatele podnikat v případě, že ujednaný způsob stanovení ceny zdravotních (sociálních) služeb nepokrývá ani nezbytné náklady na jejich poskytnutí. Nelze apriori vyloučit, že konkrétní okolnosti uzavřené smlouvy mohou výjimečně prolomit důsledky plynoucí ze zásady pacta sunt servanda ve vztahu ke sjednané výši úhrad za poskytnutou péči"
+- *NS* [32 Cdo 2108/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15051CB47FD5B547C1257A4E006863A9?openDocument) — 26. 6. 2012, kat. A
+  > „Nebyla-li výše úhrady za poskytnutou zdravotní péči z prostředků veřejného zdravotního pojištění pro určité úhradové období sjednána ve smlouvě ani stanovena právním předpisem, určí ji soud v souladu s § 136 o. s. ř. podle své úvahy. Rozumným a spravedlivým se jeví určení výše úhrady úvahou vycházející z výše příslušné úhrady v předchozím úhradovém období a z poznatků o změnách v relevantních okolnostech, k nimž došlo v mezidobí"
+- *NS* [23 Cdo 1695/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B731B261305FBDF9C1257A4E0066DF0A?openDocument) — 31. 5. 2012, kat. A
+  > „Vyhláškou č. 134/1998 Sb., kterou se vydává seznam zdravotních výkonů s bodovými hodnotami, ve znění účinném do 31. 12. 2011, ministerstvo zdravotnictví stanovilo požadavky na personální vybavení zdravotnických zařízení, aniž k tomu bylo zmocněno zákonem"
+- *NS* [28 Cdo 2334/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA7C72565C0281E0C1257A4E0065A93A?openDocument) — 20. 7. 2011, kat. A
+  > „Čl. 4 směrnice Rady č. 80/155/EHS neukládá členským státům povinnost určitým způsobem financovat činnost porodních asistentek z veřejného zdravotního pojištění. Ve sporu o náhradu škody proti státu, jehož nesprávný úřední postup v oblasti veřejného zdravotního pojištění žalobkyně spatřuje v publikaci pro ni nepříznivého výsledku dohodovacího řízení o hodnotě bodu ve Věstníku Ministerstva zdravotnictví, je proto zcela zjevné (jedná se o tzv. acte clair), že Nejvyšší soud není povinen obrátit se s žádostí o řešení předběžné otázky k Soudnímu dvoru Evropské unie"
+
 #### Systém smluv — pilíř financování péče
 
 § 17 je **ústavní normou systému veřejného zdravotnictví v ČR**. Jeho čtyři klíčové vrstvy:
@@ -928,6 +939,13 @@ Od novely č. 256/2014 Sb. má ZP povinnost **zveřejnit smlouvu** (a dodatky) d
 ### § 17a — Zvláštní smlouva o ošetřovatelské péči v zařízeních sociálních služeb
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 881/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACB2AFBFA6745FFCC1258B58004D1761?openDocument) — 12. 6. 2024, kat. A
+  > „Uzavření smlouvy mezi poskytovatelem zdravotních služeb a zdravotní pojišťovnou, příp. mezi poskytovatelem sociálních služeb a zdravotní pojišťovnou, o poskytování a úhradě hrazených služeb (§ 17 odst. 1 a § 17a zákona č. 48/1997 Sb., ve znění účinném do 4. 8. 2013) nevylučuje možnost protiústavního zásahu do práva poskytovatele podnikat v případě, že ujednaný způsob stanovení ceny zdravotních (sociálních) služeb nepokrývá ani nezbytné náklady na jejich poskytnutí. Nelze apriori vyloučit, že konkrétní okolnosti uzavřené smlouvy mohou výjimečně prolomit důsledky plynoucí ze zásady pacta sunt servanda ve vztahu ke sjednané výši úhrad za poskytnutou péči"
+- *NS* [23 Cdo 1988/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D468FF6DEF89A22C1257FFB0035E1E0?openDocument) — 1. 8. 2016, kat. A
+  > „Vyhláška č. 425/2011 Sb., o stanovení hodnot bodu, výše úhrad zdravotní péče hrazené z veřejného zdravotního pojištění a regulačních omezení objemu poskytnuté zdravotní péče hrazené z veřejného zdravotního pojištění pro rok 2012, se použije i na úhradu za poskytnutou zdravotní péči v pobytových zařízeních sociálních služeb"
 
 #### Kontraktační povinnost pojišťovny
 

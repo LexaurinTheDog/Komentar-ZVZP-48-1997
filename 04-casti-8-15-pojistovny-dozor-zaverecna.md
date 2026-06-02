@@ -1165,6 +1165,13 @@ Zástavní právo zaniká rovněž **právní mocí rozhodnutí**, kterým je ZP
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3552/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F74EDEBD00D504A2C1257FFC003C46A6?openDocument) — 27. 4. 2016, kat. A
+  > „Rodič dítěte poškozeného na zdraví je osobou povinnou nahradit zdravotní pojišťovně náklady vynaložené v rámci systému veřejného zdravotního pojištění na léčení dítěte, jestliže újmu na jeho zdraví zavinil porušením povinnosti náležitého dohledu nad dítětem. Zdravotní pojišťovně nárok nenáleží v rozsahu, v němž se na újmě na zdraví podílelo počínání samotného dítěte (bez ohledu na to, zda zaviněné, či nikoliv). Možné dopady uložení povinnosti k náhradě těchto nákladů rodiči do rodinného rozpočtu tuto povinnost rodiče nevylučují, mohou však být zvažovány z hlediska případného přiměřeného snížení výše náhrady soudem, a to zejména s přihlédnutím k okolnostem případu, k osobním a majetkovým poměrům povinné osoby i k poměrům zdravotní pojišťovny (analogické použití tzv. moderačního práva soudu podle § 450 obč. zák.)"
+- *NS* [25 Cdo 4490/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FB05A633E3C16CDC1257A4E00692A25?openDocument) — 18. 8. 2011, kat. A
+  > „Výplata pojistného plnění zdravotní pojišťovně, která vynaložila náklady na léčbu poškozeného, na úhradu jejího regresního nároku podle § 55 odst. 1 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění, není obchodem ve smyslu § 1a odst. 5 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti"
+
 #### Klasický regres pojišťovny — vůči viníkovi
 
 § 55 zakotvuje **regresní nárok pojišťovny** vůči **třetí osobě**, která zaviněně způsobila škodu na zdraví pojištěnce a tím vyvolala náklad pojišťovny na zdravotní péči. Typický případ:
@@ -1497,8 +1504,4 @@ Komentované části IX–XV nelze číst izolovaně:
 - **Zajišťovací fond v § 59 bodu 5** je institucionální pojistkou **mnohopojišťovenského systému** vymezeného v § 40 odst. 1.
 
 > ⚠ Závěrečná teze: zákon č. 48/1997 Sb. v částech IX–XV nepostuluje filozofii zdravotního pojištění, ale **stanovuje jeho operační infrastrukturu**. Hmotněprávní jádro (kdo je pojištěnec, co je hrazená služba) leží v částech I–VIII; komentované části říkají, **kdo a jak** to zajišťuje, **co se stane**, když to někdo poruší, a **kdo přitom dohlíží**. Bez nich by zákon byl ne fungujícím systémem, nýbrž jen seznamem nároků.
-
-
-
-
 
