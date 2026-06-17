@@ -671,6 +671,11 @@ Přirážka se ve věcech splatnosti, placení, vymáhání, promlčení a vrace
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 51/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-51-06_1) — nález, 27. 9. 2006
+  > „Pokud tuto povinnost plní zdravotní pojišťovny prostřednictvím zdravotnických zařízení, se kterými uzavřely smlouvu o poskytování a úhradě zdravotní péče podle ustanovení § 46 zákona č. 48/1997 Sb., a podle odstavce 2 citovaného ustanovení je zdravotní pojišťovně uložena povinnost před uzavřením smlouvy o poskytování a úhradě zdravotní péče konat výběrové řízení (přičemž konání výběrového řízení mohou navrhnout zdravotní pojišťovna nebo zdravotnické zařízení oprávněné poskytovat zdravotní péči v příslušném oboru) …"
+
 #### Definice „sítě"
 
 § 46 zavádí pro účely zákona termín **„síť" smluvních poskytovatelů**. Síť je:
@@ -983,6 +988,13 @@ Pojišťovna **zveřejní pravidla postupu před uzavřením smlouvy** a další
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 1544/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1544-07_1) — usnesení, 21. 8. 2007
+  > „Takové postavení má zdravotní pojišťovna pouze ve vztahu k pojištěnci a k zaměstnavateli; to lze vyvodit z ustanovení § 53 zákona č. 48/1997 Sb. …, podle něhož se na rozhodování ve věcech přirážek k pojistnému, pokut (srov. § 44 tohoto zákona) a pravděpodobné výše pojistného a ve sporných případech ve věcech placení pojistného, penále, vracení přeplatku na pojistném a snížení záloh na pojistné vztahují obecné předpisy o správním řízení, nestanoví-li tento zákon jinak. Ve vztahu mezi zdravotní pojišťovnou a zdravotnickým zařízením se však jedná o vztah mezi stranami, založený smlouvou. Rozhodnutí zdravotní pojišťovny, že nebude poskytnuta celá druhou smluvní stranou … účtovaná úhrada … pak nemá povahu rozhodnutí orgánu veřejné moci …"
+- *ÚS* [III.ÚS 671/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-671-02) — nález, 16. 1. 2003
+  > „… rozhodují na podkladě zákonem jim svěřené pravomoci o právech a povinnostech fyzických a právnických osob v oblasti veřejné správy (§ 244 o. s. ř.)., přičemž podle § 53 zákona č. 48/1997 Sb. … jde o věci týkající se přirážek k pojistnému, pokut a pravděpodobné výše pojistného, ve sporných případech ve věcech placení pojistného, penále, vracení přeplatku na pojistném a snížení záloh na pojistné"
+
 #### Katalog rozhodovacích kompetencí — co pojišťovna „úředně" činí
 
 § 53 odst. 1 obsahuje **13 typů věcí** (písm. a)–m)), v nichž pojišťovna jako **správní orgán** vydává rozhodnutí. Rozhodování probíhá v režimu **správního řádu** (z. č. 500/2004 Sb.) — pojišťovna není soud, ale **veřejnoprávní korporace** vybavená pravomocí autoritativně rozhodovat o veřejných subjektivních právech a povinnostech.
@@ -1054,6 +1066,11 @@ V těchto vyloučených věcech rozhoduje o odvolání **jiný orgán** (Ministe
 > *(2) Rozhodčí orgán může odstraňovat tvrdosti, které by se vyskytly při vyměření přirážky k pojistnému nebo předepsání penále, jehož výše přesahuje 30 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [17 Ad 12/2023 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718072) — 11. 12. 2023
+  > „Prominutí penále představuje tzv. odstranění tvrdosti zákona, jehož smyslem je, aby pojišťovna mohla reagovat na konkrétní situace jednotlivých plátců, u nichž se jeví placení dlužného penále jako příliš přísné"
 
 #### Institut „odstranění tvrdosti zákona"
 
@@ -1167,9 +1184,11 @@ Zástavní právo zaniká rovněž **právní mocí rozhodnutí**, kterým je ZP
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 3552/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F74EDEBD00D504A2C1257FFC003C46A6?openDocument) — 27. 4. 2016, kat. A
-  > „Rodič dítěte poškozeného na zdraví je osobou povinnou nahradit zdravotní pojišťovně náklady vynaložené v rámci systému veřejného zdravotního pojištění na léčení dítěte, jestliže újmu na jeho zdraví zavinil porušením povinnosti náležitého dohledu nad dítětem. Zdravotní pojišťovně nárok nenáleží v rozsahu, v němž se na újmě na zdraví podílelo počínání samotného dítěte (bez ohledu na to, zda zaviněné, či nikoliv). Možné dopady uložení povinnosti k náhradě těchto nákladů rodiči do rodinného rozpočtu tuto povinnost rodiče nevylučují, mohou však být zvažovány z hlediska případného přiměřeného snížení výše náhrady soudem, a to zejména s přihlédnutím k okolnostem případu, k osobním a majetkovým poměrům povinné osoby i k poměrům zdravotní pojišťovny (analogické použití tzv. moderačního práva soudu podle § 450 obč. zák.)"
-- *NS* [25 Cdo 4490/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FB05A633E3C16CDC1257A4E00692A25?openDocument) — 18. 8. 2011, kat. A
+- *NS* [25 Cdo 3552/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F74EDEBD00D504A2C1257FFC003C46A6?openDocument) — kat. A, 27. 4. 2016
+  > „Rodič dítěte poškozeného na zdraví je osobou povinnou nahradit zdravotní pojišťovně náklady vynaložené v rámci systému veřejného zdravotního pojištění na léčení dítěte, jestliže újmu na jeho zdraví zavinil porušením povinnosti náležitého dohledu nad dítětem. Zdravotní pojišťovně nárok nenáleží v rozsahu, v němž se na újmě na zdraví podílelo počínání samotného dítěte (bez ohledu na to, zda zaviněné …"
+- *ÚS* [I.ÚS 321/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-321-06) — nález, 18. 12. 2006
+  > „Podle § 55 odst. 1 zákona č. 48/1997 Sb. … příslušná zdravotní pojišťovna má právo na náhradu škody vůči třetím osobám, jestliže vynaložila náklady na péči hrazenou ze zdravotního pojištění v důsledku jejich zaviněného protiprávního jednání vůči osobám účastným zdravotního pojištění. Poškození tedy nemohou bránit řádnému vyšetření dopravní nehody též proto, že je zde dán veřejný zájem na ochraně prostředků tohoto pojištění, spojený s nutností zjistit naplnění podmínek pro vznik nároku zdravotní pojišťovny …"
+- *NS* [25 Cdo 4490/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FB05A633E3C16CDC1257A4E00692A25?openDocument) — kat. A, 18. 8. 2011
   > „Výplata pojistného plnění zdravotní pojišťovně, která vynaložila náklady na léčbu poškozeného, na úhradu jejího regresního nároku podle § 55 odst. 1 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění, není obchodem ve smyslu § 1a odst. 5 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti"
 
 #### Klasický regres pojišťovny — vůči viníkovi

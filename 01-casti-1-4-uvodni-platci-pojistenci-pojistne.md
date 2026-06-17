@@ -110,6 +110,11 @@ Z toho plyne:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ads 4/2019 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/651389) — 24. 7. 2019
+  > „Ze znění § 2 odst. 1 písm. a) zákona č. 48/1997 Sb. je zřejmé, že český systém zdravotního pojištění je založen na zásadě, podle níž každá osoba s trvalým pobytem v České republice je zdravotně pojištěna a má povinnost platit pojistné, pokud tuto povinnost za něj nemá stát. (…) Tato povinnost přitom není vázána na příjmy, nýbrž je odvozena ze zásady povinné finanční spoluúčasti každého pojištěnce"
+
 #### Dva primární pojistné tituly: trvalý pobyt vs. odvozený titul (odst. 1)
 
 § 2 odst. 1 zakládá **dualismus pojistných titulů**, který je systémovým východiskem celého ZVZP:
@@ -263,7 +268,7 @@ Bod 8 řeší specifickou situaci občana ČR, jenž **nemá trvalý pobyt v ČR
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — kat. A, 30. 6. 2020
   > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 #### Triáda plátců — pojištěnec, zaměstnavatel, stát
@@ -310,7 +315,7 @@ Trojzdrojový systém realizuje princip **vertikální i horizontální solidari
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — kat. A, 30. 6. 2020
   > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 #### Čtyři kategorie samoplátců
@@ -380,7 +385,7 @@ Status OBZP musí trvat *po celý kalendářní měsíc* — pokud osoba je byť
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — kat. A, 30. 6. 2020
   > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 #### Zaměstnavatel jako přímý plátce dvou třetin pojistného
@@ -953,6 +958,13 @@ Odst. 2 ukládá pojišťovně povinnost **zveřejnit formát a strukturu podán
 > *(3) U osob, kterým jsou poskytovány služby v oblasti zaměstnanosti22c) a dále u osob, u nichž má být provedeno vyšetření lékařem ke zjištění, zda je lze umístit do policejní cely nebo je nutno je z ní propustit, a osob ve výkonu zabezpečovací detence nebo vazby nebo výkonu trestu odnětí svobody je výběr poskytovatele, zdravotnického zařízení a zdravotnické dopravní služby omezen podle zvláštních předpisů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-02) — nález, 4. 6. 2003
+  > „Z ústavních i zákonných principů nelze tuto péči dělit na jakousi základní, "levnější" ale méně vhodnou a méně účinnou, a na nadstandardní, "dražší", ale vhodnější a účinnější. Rozdíl mezi standardní a nadstandardní péčí nesmí spočívat v rozdílech ve vhodnosti a účinnosti léčby. Zákon neupravuje, jakou zdravotní péči může lékař, resp. zdravotnické zařízení poskytovat, ale jakou musí v obecném zájmu poskytovat, aby všichni pojištěnci měli stejnou měrou nárok na taková ošetření a léčby, jež odpovídají objektivně zjištěným potřebám a požadavkům náležité úrovně a lékařské etiky"
+- *ÚS* [Pl.ÚS 1/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-08_1) — nález, 20. 5. 2008
+  > „[Ústavní soud již v nálezu sp. zn. Pl. ÚS 14/02] dovodil též, že "nic nebrání ani tomu, aby za zdravotní péči poskytnutou nad rámec podmínek pro bezplatnou péči přímá úhrada od pojištěnců vybrána být mohla""
 
 #### Katalog práv pojištěnce — 14 dílčích nároků
 

@@ -50,6 +50,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-02) — nález, 4. 6. 2003
+  > „Dle názoru Ústavního soudu napadené ustanovení nemění smysl a obsah zákona, ale zvýrazňuje pouze ochranu sféry bezplatné zdravotní péče před pokusy narušovat její integritu a zužovat její rozsah. Tato interpretace je ústavně konformní a smyslu zákona zcela přiměřená. […] Z čl. 31 Listiny, ve spojení s čl. 41 a čl. 4 odst. 4 Listiny, tudíž pro pojištěnce plyne základní právo na transparentně zákonodárcem určený komponent ekvivalence ve veřejném zdravotním pojištění, a to v takové míře, jež ještě zachovává povahu právního institutu pojištění a nemění jej v daň"
+
 #### Systematika § 11 — katalog veřejnoprávních subjektivních práv
 
 § 11 je **základní katalogovou normou pojištěnce**. Formuluje veřejnoprávní subjektivní práva, jež jsou v poměru ke zdravotní pojišťovně a v poměru k poskytovateli zdravotních služeb (dále „**PZS**") přímo vymahatelná. Jde o ústavně-zákonné konkretizace čl. 31 Listiny základních práv a svobod („Občané mají na základě veřejného pojištění právo na bezplatnou zdravotní péči a na zdravotní pomůcky za podmínek, které stanoví zákon."). Ústavní soud opakovaně potvrdil, že rozsah, podmínky a parametry této bezplatnosti vymezuje výhradně zákon, nikoliv podzákonný předpis (Pl.ÚS 14/02, Pl.ÚS 1/08, Pl.ÚS 36/11).
@@ -308,6 +313,13 @@ Důsledek § 16a — pojištěnec je **povinen** uhradit regulační poplatek 90
 > *- j) zdravotní péče související s těhotenstvím a porodem dítěte, jehož matka požádala o utajení své osoby v souvislosti s porodem; tuto péči hradí zdravotní pojišťovna, kterou na základě identifikačních údajů pojištěnce o úhradu požádá příslušný poskytovatel.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 36/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-11_1) — nález, 20. 6. 2013
+  > „Právo na bezplatnou zdravotní péči a na zdravotní pomůcky je tu zúženo na rozsah veřejného pojištění, a je tedy podmíněno úhradou pojistných částek a objemem prostředků takto vytvořených a připravených k redistribuci"
+- *ÚS* [III.ÚS 2253/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2253-13_1) — nález, 9. 1. 2014
+  > „Z hlediska ústavního je proto rozdíl v nárocích na budoucí poskytnutí péče [závislost na možnostech financování a ekonomické náročnosti minimálně v mezích standardu (§ 13 odst. 1 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů)] a v nárocích plynoucích z již poskytnuté péče, zejména poskytnuté nikoli lege artis…"
 
 #### Trojí kritérium hrazenosti (odst. 1) — substantivní filtr
 
@@ -600,6 +612,11 @@ Pojišťovna může za účelem zajištění **místní a časové dostupnosti**
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Ad 2/2011 - 182](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/456076) — 27. 6. 2018
+  > „Ustanovení § 15 odst. 5 a § 39c odst. 5 zákona č. 48/1997 Sb., je nutno interpretovat s ohledem na jejich smysl a účel a v souladu se smyslem a účelem ustanovení článku 31 věty druhé Listiny základních práv a svobod. Je tedy nutno zajistit řádnou péči, tj. rovněž takový léčivý přípravek, který je použitelný pro řádnou farmakoterapii"
+
 #### Negativní výčet (odst. 1) — příloha č. 1 ZVZP
 
 Příloha č. 1 obsahuje **trojstupňový seznam výkonů**:
@@ -710,6 +727,11 @@ Klíčová judikatura: nález Ústavního soudu **III. ÚS 2332/16** (kazuistika
 > *(5) Poskytovatel je povinen regulační poplatek uvedený v odstavci 1 od pojištěnce nebo jeho zákonného zástupce vybrat, pokud nejde o výjimku z placení regulačního poplatku podle odstavce 2.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 1/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-1-08_1) — nález, 20. 5. 2008
+  > „V prvé řadě je třeba zdůraznit, že účelem zavedení regulačních poplatků byla regulace chování pacientů ve vztahu ke zdravotnickým zařízením a k pořizování léků v lékárnách, jakož i chování mezi pacienty navzájem. […] regulační, jejichž smyslem je regulovat a omezit zneužívání a neúčelné čerpání lékařské péče"
 
 #### Historický kontext — od pěti poplatků k jednomu
 
@@ -874,14 +896,10 @@ Při změně ZP v průběhu roku **vyplácí nadlimitní částku ta pojišťovn
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 881/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACB2AFBFA6745FFCC1258B58004D1761?openDocument) — 12. 6. 2024, kat. A
+- *NS* [31 Cdo 881/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACB2AFBFA6745FFCC1258B58004D1761?openDocument) — kat. A, 12. 6. 2024
   > „Uzavření smlouvy mezi poskytovatelem zdravotních služeb a zdravotní pojišťovnou, příp. mezi poskytovatelem sociálních služeb a zdravotní pojišťovnou, o poskytování a úhradě hrazených služeb (§ 17 odst. 1 a § 17a zákona č. 48/1997 Sb., ve znění účinném do 4. 8. 2013) nevylučuje možnost protiústavního zásahu do práva poskytovatele podnikat v případě, že ujednaný způsob stanovení ceny zdravotních (sociálních) služeb nepokrývá ani nezbytné náklady na jejich poskytnutí. Nelze apriori vyloučit, že konkrétní okolnosti uzavřené smlouvy mohou výjimečně prolomit důsledky plynoucí ze zásady pacta sunt servanda ve vztahu ke sjednané výši úhrad za poskytnutou péči"
-- *NS* [32 Cdo 2108/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15051CB47FD5B547C1257A4E006863A9?openDocument) — 26. 6. 2012, kat. A
+- *NS* [32 Cdo 2108/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15051CB47FD5B547C1257A4E006863A9?openDocument) — kat. A, 26. 6. 2012
   > „Nebyla-li výše úhrady za poskytnutou zdravotní péči z prostředků veřejného zdravotního pojištění pro určité úhradové období sjednána ve smlouvě ani stanovena právním předpisem, určí ji soud v souladu s § 136 o. s. ř. podle své úvahy. Rozumným a spravedlivým se jeví určení výše úhrady úvahou vycházející z výše příslušné úhrady v předchozím úhradovém období a z poznatků o změnách v relevantních okolnostech, k nimž došlo v mezidobí"
-- *NS* [23 Cdo 1695/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B731B261305FBDF9C1257A4E0066DF0A?openDocument) — 31. 5. 2012, kat. A
-  > „Vyhláškou č. 134/1998 Sb., kterou se vydává seznam zdravotních výkonů s bodovými hodnotami, ve znění účinném do 31. 12. 2011, ministerstvo zdravotnictví stanovilo požadavky na personální vybavení zdravotnických zařízení, aniž k tomu bylo zmocněno zákonem"
-- *NS* [28 Cdo 2334/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA7C72565C0281E0C1257A4E0065A93A?openDocument) — 20. 7. 2011, kat. A
-  > „Čl. 4 směrnice Rady č. 80/155/EHS neukládá členským státům povinnost určitým způsobem financovat činnost porodních asistentek z veřejného zdravotního pojištění. Ve sporu o náhradu škody proti státu, jehož nesprávný úřední postup v oblasti veřejného zdravotního pojištění žalobkyně spatřuje v publikaci pro ni nepříznivého výsledku dohodovacího řízení o hodnotě bodu ve Věstníku Ministerstva zdravotnictví, je proto zcela zjevné (jedná se o tzv. acte clair), že Nejvyšší soud není povinen obrátit se s žádostí o řešení předběžné otázky k Soudnímu dvoru Evropské unie"
 
 #### Systém smluv — pilíř financování péče
 
@@ -942,9 +960,7 @@ Od novely č. 256/2014 Sb. má ZP povinnost **zveřejnit smlouvu** (a dodatky) d
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 881/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACB2AFBFA6745FFCC1258B58004D1761?openDocument) — 12. 6. 2024, kat. A
-  > „Uzavření smlouvy mezi poskytovatelem zdravotních služeb a zdravotní pojišťovnou, příp. mezi poskytovatelem sociálních služeb a zdravotní pojišťovnou, o poskytování a úhradě hrazených služeb (§ 17 odst. 1 a § 17a zákona č. 48/1997 Sb., ve znění účinném do 4. 8. 2013) nevylučuje možnost protiústavního zásahu do práva poskytovatele podnikat v případě, že ujednaný způsob stanovení ceny zdravotních (sociálních) služeb nepokrývá ani nezbytné náklady na jejich poskytnutí. Nelze apriori vyloučit, že konkrétní okolnosti uzavřené smlouvy mohou výjimečně prolomit důsledky plynoucí ze zásady pacta sunt servanda ve vztahu ke sjednané výši úhrad za poskytnutou péči"
-- *NS* [23 Cdo 1988/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D468FF6DEF89A22C1257FFB0035E1E0?openDocument) — 1. 8. 2016, kat. A
+- *NS* [23 Cdo 1988/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D468FF6DEF89A22C1257FFB0035E1E0?openDocument) — kat. A, 1. 8. 2016
   > „Vyhláška č. 425/2011 Sb., o stanovení hodnot bodu, výše úhrad zdravotní péče hrazené z veřejného zdravotního pojištění a regulačních omezení objemu poskytnuté zdravotní péče hrazené z veřejného zdravotního pojištění pro rok 2012, se použije i na úhradu za poskytnutou zdravotní péči v pobytových zařízeních sociálních služeb"
 
 #### Kontraktační povinnost pojišťovny
@@ -1311,6 +1327,11 @@ Při propustce (krátkodobé propuštění z hospitalizace bez ukončení lůžk
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 5/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-04_1) — nález, 25. 9. 2007
+  > „Součástí zdravotní péče (zejména činnost poradenská, ošetřovatelská, diagnostická, preventivní, rehabilitační, lázeňská, léčebná, lékárenská v ambulantní nebo ústavní podobě) je i pohotovostní péče, která zahrnuje i lékařskou službu první pomoci. […] Lékařská služba první pomoci je tak jednou ze služeb, které slouží k zajištění zdravotní péče v obvodu kraje"
+
 #### Výkony ZZS hrazené ze ZVZP
 
 Ač se **provoz** ZZS hradí z rozpočtu zřizovatele (krajů — § 15 odst. 20), **jednotlivé zdravotní výkony** provedené v rámci ZZS jsou hrazeny ze ZVZP. Tento duální model je v Evropě poměrně specifický — odráží historický kompromis mezi krajskou samosprávou a zdravotními pojišťovnami.
@@ -1526,6 +1547,11 @@ Opatření platí **na dobu předpokládané nedostupnosti** (max. 1 rok, s mož
 > *(12) Ministerstvo zdravotnictví stanoví pro jednotlivé indikace vyhláškou obsahové náležitosti návrhu na lázeňskou léčebně rehabilitační péči o dospělé, děti a dorost, indikační předpoklady, kontraindikace, odborná kritéria pro poskytnutí lázeňské léčebně rehabilitační péče včetně potřebných vyšetření, obor specializace lékaře, který takovou péči doporučuje, požadavky na dostupnost zdravotnických pracovníků ve zdravotnickém zařízení poskytovatele lázeňské léčebně rehabilitační péče a indikační zaměření lázeňských míst, ve kterých se nachází přírodní léčivý zdroj nebo klimatické podmínky vhodné k léčbě nemocí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 43/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-43-13_1) — nález, 25. 3. 2014
+  > „Jejich účelem je totiž dosažení takové regulace poskytování této péče, která umožní nalézt rovnováhu mezi požadavky jednak na účinnost léčby, tedy aby hrazený pobyt v lázeňském zařízení skutečně plnil svou předpokládanou léčebnou funkci, jednak na její efektivnost a ekonomickou únosnost, a to s ohledem na jiné dostupné možnosti léčby a celkový objem finančních prostředků ve zdravotnictví"
 
 #### Dualita komplexní vs. příspěvkové lázeňské péče
 

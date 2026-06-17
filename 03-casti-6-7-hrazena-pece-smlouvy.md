@@ -336,6 +336,11 @@ Tyto podmínky se v lékové databázi SÚKL označují kódy typu „P", „L/S
 
 § 39c je **operační páteř systému úhrad**. Léčiva se sdružují do **referenčních skupin** (RS) — uvnitř každé RS platí **jediná základní úhrada** za **obvyklou denní terapeutickou dávku (ODTD)**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 99/2016 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/640193) — 19. 10. 2016
+  > „Jediným rozdílem výpočtu základní úhrady podle § 39c odst. 5 od odst. 2 je to, že při postupu podle odst. 5 je zajištěna úhrada nejméně nákladného přípravku, což lze logicky dosáhnout tím, že základní úhrada je stanovena podle nejnižší ceny zjištěné v České republice (nikoliv tedy nejnižší ceny zjištěné v kterékoliv zemi Evropské unie). … ustanovení § 39c odst. 5 stanoví požadavek, aby „nejméně nákladný léčivý přípravek náležející do této skupiny byl plně hrazen“"
+
 #### Stanovení základní úhrady (odst. 2) — čtyřúrovňová kaskáda
 
 Základní úhrada referenční skupiny se stanoví ve výši:
@@ -665,6 +670,11 @@ Po 10 měsících od vykonatelnosti lze vyhlásit další soutěž; vítěz minu
 
 § 39f je **procedurální páteř** — komu je povolena žádost, co musí obsahovat, kdy lze zahájit řízení z moci úřední, ochrana obchodního tajemství.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 459/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-459-14_1) — nález, 14. 4. 2015
+  > „rozhodování o stanovení výše a podmínek úhrady léčivých přípravků ze zdravotního pojištění podle § 39f odst. 2 písm. a) zákona o veřejném zdravotním pojištění se ve vztahu k držitelům registrace těchto léčivých přípravků a účastníkům správního řízení podle § 39g odst. 1 téhož zákona týká jejich základních práv a svobod podle Listiny (a to práva na podnikání zaručeného čl. 26 odst. 1 Listiny a případně též práva na rovné zacházení, vyplývajícího z čl. 1 Listiny), a proto musí podléhat plnému soudnímu přezkumu před obecnými soudy"
+
 #### Aktivně legitimovaní žadatelé (odst. 2)
 
 - **Držitel rozhodnutí o registraci** (typicky výrobce/farmaceutická společnost),
@@ -713,6 +723,11 @@ Naopak **lze** chránit (odst. 12): smluvní ujednání o limitaci dopadu (cap),
 | **Změna obsahu žádosti** | nejvýše **3×** (3. je zpoplatněna) |
 | **Řízení s velkým počtem účastníků** | aplikuje se § 144 a násl. SŘ |
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 10/2024 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743186) — 21. 5. 2025
+  > „Na rozdíl od přípravků obsahujících léčivé látky zařazené do některé z referenčních skupin dle vyhlášky č. 384/2007 Sb., o seznamu referenčních skupin, neexistuje pro ostatní léčivé přípravky rámec, který by vymezoval a priori skupiny v zásadě terapeuticky zaměnitelných přípravků. Státní ústav pro kontrolu léčiv je oprávněn při své rozhodovací činnosti o stanovení maximálních cen podle § 39g zákona č. 48/1997 Sb., o veřejném zdravotním pojištění, k tvorbě kvazireferenčních skupin pro tyto ostatní v zásadě terapeuticky zaměnitelné léčivé přípravky. Při tvorbě těchto skupin lze přiměřeně aplikovat způsob, jakým jsou tvořeny referenční skupiny dle citované vyhlášky"
+
 #### Smluvní cena ZP (odst. 13)
 
 Důležitý institut: ZP a držitel mohou ve veřejném zájmu uzavřít **písemné ujednání snižující cenu pro konečného spotřebitele** pro pojištěnce dané ZP — **smluvní cena ZP**. Vztahuje se na **všechny dodávky** smluvním PZS dané ZP a je pro ně závazná, je-li oznámena (např. zveřejněním v poskytovatelském portálu).
@@ -733,6 +748,13 @@ Klíčová **kalkulační formule** úhrady pro koncového spotřebitele:
                        + DPH
                        ≤ skutečně uplatněná konečná cena
 ```
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 42/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-42-10_1) — usnesení, 30. 3. 2011
+  > „Z uvedeného vyplývá, že současná úprava, obsažená v části šesté zákona č. 48/1997 Sb., nazvaná "Regulace cen a úhrad léčivých přípravků a potravin pro zvláštní lékařské účely", respektuje požadavky, které Ústavní soud stanovil v uvedeném nálezu [Pl. ÚS 36/05] … Ve způsobu, jakým je v této části upraven postup tvorby cen, není nic protiústavního"
+- *NSS* [11 A 68/2010 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/561071) — 28. 2. 2012
+  > „K tomu, aby bylo možno učinit závěr o tom, že v posuzované věci nastala fikce správního rozhodnutí o určitém obsahu, musí být v právním předpise obsažena výslovná adekvátní úprava této fikce. Jestliže tomu tak není, jak má soud za to v případě ustanovení § 39h zákona č. 48/1997 Sb., je nutno vycházet ze závěru, že po dobu probíhajícího správního řízení, než je rozhodnuto o žádosti samé, je žadatel oprávněn uvádět na trh své výrobky za ceny, které sám v žádosti navrhoval. Tím je dostatečně ochráněn před případnou hrozbou nečinnosti či průtahů v řízení před správním úřadem"
 
 #### Zvlášť účtovaný léčivý přípravek (ZÚLP) na žádanku (odst. 1, věta čtvrtá)
 
