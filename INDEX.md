@@ -29,6 +29,10 @@ Znění k **1. 1. 2026** (e-Sbírka `SB-1997-00048_2026-01-01`, dokument 2057013
 - 2024 — reforma kategorizace zdravotnické techniky
 - 2026 — konsolidované znění
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
